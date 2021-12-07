@@ -1,0 +1,47 @@
+.nw-content-text .nw-content-title, nw-content-body{
+  font-family: inherit !important;
+}
+.fa-bell:before {
+    content: "\f0f3";
+    color: #363636 !important;
+}
+.nw-content-title {
+    margin: 0px !important;
+    padding: 0px !important;
+    font-weight: 600px;
+    width: 100%;
+    font-size: 13px;
+    display: inline-block !important;
+    word-break: break-word !important;
+    color: #fdc811 !important
+    -webkit-text-fill-color: #fdc811 !important
+    font-family: inherit !important;
+}
+.nw-all-notifications > h3 {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 15px 5px;
+    background: linear-gradient(to right, #fce732 0%, #fae530 1%, #fbe631 1%, #f9e42f 2%, #fae42e 4%, #fcdf29 5%, #fcdd23 8%, #fddb21 8%, #fcd91d 12%, #fcd619 13%, #fed519 14%, #fcd317 14%, #fed217 16%, #fcd015 16%, #fed116 17%, #fcc810 22%, #fcc810 23%, #fec712 23%, #fdc510 28%, #ffc313 30%, #ffc313 31%, #fbc211 32%, #fdbf16 35%, #fcbb15 41%, #fab420 52%, #f9b11e 53%, #f8b020 56%, #faae27 60%, #f8ac25 61%, #f8a52d 63%, #f79f35 65%, #f69d37 65%, #f39939 67%, #f4963e 68%, #f2923c 70%, #f3933f 70%, #f38e3e 72%, #f48f41 72%, #f18a3f 73%, #f2863e 75%, #f18441 77%, #f0803e 78%, #f17f40 79%, #ef7b3e 81%, #f17a40 82%, #f0773e 83%, #f1783f 84%, #ef763d 84%, #f07740 84%, #f0743e 86%, #f17541 86%, #f17541 86%, #ef713e 88%, #ef6f3e 91%, #ed6d3c 91%, #ef6c3e 93%, #ed683b 95%, #ef683b 97%, #ef643d 98%, #ec603c 99%, #ee5f3d 99%, #ec5c3a 100%) !important;
+    color: #fff;
+    font-family: inherit !important;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.nw-content-redirect {
+    margin-top: 25px;
+    font-family: inherit !important;
+    font-size: 12px !important;
+    border: 0px !Important;
+    float: left !important;
+    word-break: break-all;
+    background: #ec5c3a !important;
+    color: #ffffff !important;
+    width: 35% !important;
+    font-weight: bold !important;
+    padding: 10px !important;
+}
+
+.nw-content-body{
+    font-family: inherit !important;
+}
